@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+.menu a {
+    float: center;
+    font-size: 16px;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
